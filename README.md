@@ -21,7 +21,7 @@ Wow, so balanced.
 ### Links
 
 - [Current Version](https://github.com/Sierra0001/Milkshakes---Ambrosia-Edition/releases/tag/v1.0)
-- [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2594428074)
+- [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2595706669)
 - [GitHub](https://github.com/Sierra0001/Milkshakes---Ambrosia-Edition)
 
 ### Credits
