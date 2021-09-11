@@ -14,7 +14,7 @@
 		<li>Sierra.Milkshakes.Core</li>
 	</loadAfter>
 	<description>
-[h1]Mod Version: v1.0[/h1]
+[h1]Mod Version: v1.1[/h1]
 
 
 My milkshake brings all the modders to the yard.
@@ -70,6 +70,12 @@ Wow, so balanced.
 [list]
 [*][RimWorld 1.3] RimWorld 1.3 Ready.
 [*][Release] Initial release.
+[/list]
+
+[b]v1.1[/b]
+[list]
+[*][Fix] Pawns will now willingly drink milkshake for recreation.
+[*][Change] Milkshake consumption is now it's own JoyKind.
 [/list]
 	</description>
 </ModMetaData>
