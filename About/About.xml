@@ -11,10 +11,10 @@
 		<li>Ludeon.RimWorld</li>
 		<li>Ludeon.RimWorld.Royalty</li>
 		<li>Ludeon.RimWorld.Ideology</li>
-		<li>Sierra.Milkshakes.Core</li>
+		<li>Sierra.Milkshakes.Milk</li>
 	</loadAfter>
 	<description>
-[h1]Mod Version: v1.2[/h1]
+[h1]Mod Version: v1.2.1[/h1]
 
 
 My milkshake brings all the modders to the yard.
@@ -66,12 +66,6 @@ Wow, so balanced.
 
 
 [h1]Latest Changes:[/h1]
-[b]v1.1[/b]
-[list]
-[*][Fix] Pawns will now willingly drink milkshake for recreation.
-[*][Change] Milkshake consumption is now it's own JoyKind.
-[/list]
-
 [b]v1.2[/b]
 [list]
 [*][Change] Product from basic recipe reduced from 2 to 1.
@@ -84,6 +78,12 @@ Wow, so balanced.
 [*][Buff] Ambrosia milkshake shelf life increased from 18 hours to 3 days.
 [*][Buff] Ambrosia milkshake value increased from 26 to 46.
 [*][Buff] Ambrosia milkshake nutrition increased from 0.12 to 0.45.
+[/list]
+
+
+[b]v1.2.1[/b]
+[list]
+[*][Update] Added support for Milkshake - Blueberry &amp; Strawberry Edition
 [/list]
 	</description>
 </ModMetaData>

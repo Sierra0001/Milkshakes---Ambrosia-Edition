@@ -20,7 +20,7 @@ Wow, so balanced.
 
 ### Links
 
-- [Current Version](https://github.com/Sierra0001/Milkshakes---Ambrosia-Edition/releases/tag/v1.2)
+- [Current Version](https://github.com/Sierra0001/Milkshakes---Ambrosia-Edition/releases/tag/v1.2.1)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2595706669)
 - [GitHub](https://github.com/Sierra0001/Milkshakes---Ambrosia-Edition)
 
@@ -40,3 +40,4 @@ SirLalaPyon for his amazing, high-quality vanilla styled art.
 - [Buff] Ambrosia milkshake shelf life increased from 18 hours to 3 days.
 - [Buff] Ambrosia milkshake value increased from 26 to 46.
 - [Buff] Ambrosia milkshake nutrition increased from 0.12 to 0.45.
+- [Update] Added support for Milkshake - Blueberry & Strawberry Edition
